@@ -1,0 +1,1 @@
+- [AMD launches AI chip to rival Nvidia, Amazon may be the first company to use it](https://youtu.be/H_4colaJCKU)
