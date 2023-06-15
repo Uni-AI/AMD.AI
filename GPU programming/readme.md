@@ -1,0 +1,1 @@
+- [AMD GPU Linux bitsandbytes installation - step by step guide for 8-bit functions](https://youtu.be/2cPsvwONnL8)
